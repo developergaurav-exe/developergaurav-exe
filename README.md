@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate more on **Github**
 
-- 🤝 I’m looking for help with **Data Structure and Algorithms**
+- 🤝 I’m looking for help with **Data Structures and Algorithms**
 
 - 📫 How to reach me **harshg.webdev@gmail.com**
 
