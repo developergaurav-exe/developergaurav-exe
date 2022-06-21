@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developergaurav-exe&label=Profile%20views&color=0e75b6&style=flat-square" alt="developergaurav-exe" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Problem Solving**
 
 - 👯 I’m looking to collaborate more on **Github**
 
