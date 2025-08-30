@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Gaurav</h1>
 <h3 align="center">Data Engineer | Software Developer | Cloud Computing and Cyber Security Enthusiast</h3>
 
-- 🔭 I’m currently working on **Data Engineering**
+- 🔭 I’m currently working as **Data and Software Engineer**
 
-- 🌱 I’m currently learning **Problem Solving and DSA**
+- 🌱 I’m learning **Problem Solving and DSA**
 
 - 👯 I’m looking to collaborate more on **Github**
 
