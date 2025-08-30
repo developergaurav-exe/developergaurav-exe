@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Gaurav</h1>
-<h3 align="center">Full Stack Web Developer | Software Developer | Cloud Computing and Cyber Security Enthusiast</h3>
+<h3 align="center">Data Engineer | Software Developer | Cloud Computing and Cyber Security Enthusiast</h3>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Problem Solving**
+- 🌱 I’m currently learning **Problem Solving and DSA**
 
 - 👯 I’m looking to collaborate more on **Github**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
-
-- 📫 How to reach me **harshg.webdev@gmail.com**
+- 📫 Click here to reach me **https://www.linkedin.com/in/harshgaurav/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
